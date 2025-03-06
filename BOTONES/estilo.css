@@ -1,0 +1,19 @@
+.boton1{
+    border-radius: 15px;
+    background-attachment: #0000ff;
+    color:rgb(41, 198, 88);
+}
+.boton2{
+    border-radius: 15px;
+    background-attachment: #0000ff;
+    color:rgb(78, 198, 41);
+}
+.boton3{
+    border-radius: 15px;
+    background-color: #fbff00;
+    color:rgb(198, 41, 127);
+    padding: 10px 20px;
+    text-align: end;
+    border:none;
+    font-family: cursive;
+}
